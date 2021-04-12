@@ -1,2 +1,1 @@
-# zuri
-https://oladejioluwaseun.github.io/zuri/
+# zuri https://oladejioluwaseun.github.io/zuri/
